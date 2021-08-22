@@ -1,10 +1,16 @@
 import './App.css';
+import ListaDeNotas from './components/ListaDeNotas/ListaDeNotas';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Oi</h1>
-    </div>
+    <section>
+      <form>
+        <input type="text" placeholder="Título" />
+        <textarea placeholder="Excreva a sua nota..." />
+        <button type="submit">Criar Nota</button>
+      </form>
+      <ListaDeNotas/>
+    </section>
   );
 }
 
