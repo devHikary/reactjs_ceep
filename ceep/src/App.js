@@ -6,7 +6,7 @@ import FormularioCadastro from './components/FormularioCadastro/FormularioCadast
 class App extends Component {
   render() {
     return (
-    <section>
+    <section className="conteudo">
       <FormularioCadastro/>
       <ListaDeNotas/>
     </section>
