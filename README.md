@@ -50,3 +50,10 @@ Instrutor: ***Ricardo Bugan Debs***
 - Para que serve o `state`
 - Como atribuir o `state` de maneira segura
 - Atualizando a visualização da tela dinamicamente
+
+# Curso: Ciclo de vida dos Componentes
+Curso da plataforma Alura
+
+Instrutor: ***Ricardo Bugan Debs***
+
+Continuação do projeto de Lista de Notas...
